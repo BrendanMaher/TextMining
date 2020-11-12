@@ -5,4 +5,5 @@ Abiola Smith: Responsible for Finding appropriate text mining techniques and pro
 Brendan Maher: Responsible for R code and analysis of plots and tables made                                          
 Deepesh Khaneja:Responsible for finding relevant content and preparing presentation and report                       
 The results and graphs and tables generated from the Excel file through the R code are shown in the PDF              
-It seems like there are three clusters of documents with the important identitying words: parallel, image
+It seems like word pairs work just as well as word correlations and that there are three clusters of documents       
+It looks like though there are too few unique best publiser topics to account for the number of different publishers
