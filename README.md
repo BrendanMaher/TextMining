@@ -1,5 +1,5 @@
 # TextMining
-1st April 2017 R code group project from Data Mining course STAT5703 Carleton University                                            
+1st April 2017 R code group project from Data Mining course STAT5703 Carleton University                             
 It was made to identify the important words and word-pairs from a collection of documents                            
 Abiola Smith: Responsible for Finding appropriate text mining techniques and providing idea to generate R code       
 Brendan Maher: Responsible for R code and analysis of plots and tables made                                          
